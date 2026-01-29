@@ -159,6 +159,18 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 1rem;
     text-align: right;
   }
+
+  // remove default figure spacing if any
+  figure { margin: 0; }
+
+  // grid + horizontal thumbnails
+  img.card-img-top,
+  img.card-img {
+    width: 100%;
+    aspect-ratio: 16 / 9;   // pick what you want, e.g. 1 / 1, 4 / 3, 3 / 2
+    object-fit: cover;      // or: contain
+    display: block;
+  }
 }
 
 // Repositories
