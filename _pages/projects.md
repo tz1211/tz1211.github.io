@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: 🚧🚧🚧 The projects page is currently under construction. Some information may be missing or incomplete. 🚧🚧🚧
+description: 
 nav: true
 nav_order: 3
 display_categories: 
