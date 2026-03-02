@@ -19,7 +19,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a first year Master's student in Data Science at Harvard University. My research interests lie in mechanistic interpretability, AI safety, and efficient ML. My current research focuses on understanding LLM's reasoning capability through features in the activation space. I am also working on model compression with an extension to the [Boomerang Distillation](https://arxiv.org/abs/2510.05064) techique. 
+I am a first-year Master's student in Data Science at Harvard University. My research interests include mechanistic interpretability, AI safety, and efficient machine learning. My current work focuses on using mechanistic interpretability to understand safety-relevant model behaviours. I am also working on model compression, extending the [Boomerang Distillation](https://arxiv.org/abs/2510.05064) technique. 
 
 I am currently working with [Jonathan Geuter](https://j-geuter.github.io) and [Sara Kangaslahti](https://skangasl.github.io) at Harvard's [ML Foundations Group](https://mlfoundations.org), advised by Prof. [David Alvarez-Melis](https://dmelis.github.io). I am also working with Dr. [Shichang Zhang](https://shichangzh.github.io) at the [AI4LIFE Lab](https://github.com/AI4LIFE-GROUP), advised by Prof. [Hima Lakkaraju](https://himalakkaraju.github.io) and Prof. [Yonatan Belinkov](https://belinkov.com). Previously, I completed my Bachelor's degree in Politics and Data Science at the [London School of Economics](https://www.lse.ac.uk). 
 
