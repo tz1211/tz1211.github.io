@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Terry Zhou # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Yan
 middle_name: (Terry)
 last_name: Zhou
@@ -203,6 +203,7 @@ exclude:
   - _pages/repositories.md
   - purgecss.config.js
   - README.md
+  - requirements.txt
   - readme_preview/
   - vendor
 keep_files:
