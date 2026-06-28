@@ -9,6 +9,9 @@ cv:
     - network: LinkedIn
       username: https://www.linkedin.com/in/yan-zhou-a9085b256/
       url: https://www.linkedin.com/in/yan-zhou-a9085b256/
+    - network: Google Scholar
+      username: https://scholar.google.com/citations?hl=en&user=xQyGSIsAAAAJ
+      url: https://scholar.google.com/citations?hl=en&user=xQyGSIsAAAAJ 
 
   address:
     city: Cambridge
@@ -33,50 +36,56 @@ cv:
         end_date: 2025-06-1
 
     Experience:
+      - company: CRISP Group, Kempner Institute at Harvard 
+        position: Researcher
+        location: Cambridge, US
+        start_date: 2026-6-1
+        end_date: Present
+
       - company: ML Foundations Group, Harvard SEAS
-        position: AI Researcher
+        position: Researcher
         location: Cambridge, US
         start_date: 2025-11-1
         end_date: Present
-        summary: Investigating generalization behavior of boomerang-distillation on post-trained LLMs.
-        highlights:
-          - Built model capability evaluation pipelines and optimized model distillation training workflow for multi-GPU cluster.
-          - Demonstrated that post-trained teacher capabilities can be zero-shot transferred via layer patching onto base student models.
+        # summary: Investigating generalization behavior of boomerang-distillation on post-trained LLMs.
+        # highlights:
+        #   - Built model capability evaluation pipelines and optimized model distillation training workflow for multi-GPU cluster.
+        #   - Demonstrated that post-trained teacher capabilities can be zero-shot transferred via layer patching onto base student models.
 
-      - company: AI4LIFE Lab, Harvard SEAS
-        position: AI Researcher
+      - company: AI4LIFE Group, Harvard SEAS
+        position: Researcher
         location: Cambridge, US
         start_date: 2025-09-1
         end_date: Present
-        summary: Research on activation steering for reasoning control in LLMs.
-        highlights:
-          - Demonstrated that steering for specific model personas can lead to more concise model CoT and enhanced performance on reasoning benchmarks.
+        # summary: Research on activation steering for reasoning control in LLMs.
+        # highlights:
+        #   - Demonstrated that steering for specific model personas can lead to more concise model CoT and enhanced performance on reasoning benchmarks.
 
       - company: Harvard AI Safety Student Team, Harvard SEAS
-        position: Technical AI Safety Fellow
+        position: Technical Member
         location: Cambridge, US
         start_date: 2025-09-1
         end_date: 2025-11-1
-        summary: Participated in advanced AI safety reading groups.
+        # summary: Participated in advanced AI safety reading groups.
 
       - company: Data Science Institute, LSE
         position: Research Assistant
         location: London, UK
         start_date: 2024-06-1
         end_date: 2025-06-1
-        summary: Led development of a RAG chatbot for queries regarding LSE policy and regulations.
-        highlights:
-          - Designed automated data ingestion and embedding pipelines. 
-          - Built scalable backend for institutional policy QA. 
+        # summary: Led development of a RAG chatbot for queries regarding LSE policy and regulations.
+        # highlights:
+        #   - Designed automated data ingestion and embedding pipelines. 
+        #   - Built scalable backend for institutional policy QA. 
 
       - company: Data Science Institute, LSE
         position: Research Assistant
         location: London, UK
         start_date: 2023-06-1
         end_date: 2024-10-1
-        summary: Built ML framework to identify factors that drive MP rebellions in UK Parliament.
-        highlights:
-          - Utilized speech embeddings to estimate political ideological differences, achieving a 20% increase in F1-score for predicting voting behavior.
+        # summary: Built ML framework to identify factors that drive MP rebellions in UK Parliament.
+        # highlights:
+        #   - Utilized speech embeddings to estimate political ideological differences, achieving a 20% increase in F1-score for predicting voting behavior.
 
       - company: The Tecsa Group
         position: Data Science Intern
@@ -84,24 +93,24 @@ cv:
         start_date: 2023-04-1
         end_date: 2024-4-1
 
-    Projects:
-      - name: Are Personas All You Need? Stress-Testing Persona Vectors as Alignment Tools 
-        summary: Evaluation of persona vectors as alignment tools in LLMs.
-        highlights:
-          - Evaluated the reliability of persona vectors as low-dimensional alignment tools for modeling behavioral traits. 
-          - Analyzed geometric properties of persona vectors to quantify cross-trait interference during finetuning. 
-          - Identified key robustness failures such that minor natural language variations produce persona vectors with cosine similarity as low as 0.6.
-        start_date: 2025-11-1
-        end_date: 2025-12-1
+    # Projects:
+    #   - name: Are Personas All You Need? Stress-Testing Persona Vectors as Alignment Tools 
+    #     summary: Evaluation of persona vectors as alignment tools in LLMs.
+    #     highlights:
+    #       - Evaluated the reliability of persona vectors as low-dimensional alignment tools for modeling behavioral traits. 
+    #       - Analyzed geometric properties of persona vectors to quantify cross-trait interference during finetuning. 
+    #       - Identified key robustness failures such that minor natural language variations produce persona vectors with cosine similarity as low as 0.6.
+    #     start_date: 2025-11-1
+    #     end_date: 2025-12-1
 
-      - name: DataDetox
-        summary: An interactive AI agent orchestration system for ML model and data provenance. 
-        highlights:
-          - Developed an agentic AI system to trace model and training data lineage, allowing ML practitioners to identify hidden upstream risks and enhance model and data provenance. 
-          - Engineered an asynchronous multi-agent backend that retrieves disparate metadata and queries from graph database to construct model and data lineage trees. 
-          - Deployed a production-ready stack using Docker and Kubernetes for scalability.
-        start_date: 2025-09-1
-        end_date: 2025-12-1
+    #   - name: DataDetox
+    #     summary: An interactive AI agent orchestration system for ML model and data provenance. 
+    #     highlights:
+    #       - Developed an agentic AI system to trace model and training data lineage, allowing ML practitioners to identify hidden upstream risks and enhance model and data provenance. 
+    #       - Engineered an asynchronous multi-agent backend that retrieves disparate metadata and queries from graph database to construct model and data lineage trees. 
+    #       - Deployed a production-ready stack using Docker and Kubernetes for scalability.
+    #     start_date: 2025-09-1
+    #     end_date: 2025-12-1
 
     Skills:
       - name: Programming Languages
