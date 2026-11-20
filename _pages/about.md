@@ -21,8 +21,8 @@ announcements:
 
 Hello! I am a Master's student in Data Science at Harvard University. I am currently part of the [CRISP](https://crisp.seas.harvard.edu) group, working under the supervision of Prof. [Demba Ba](http://www.demba-ba.org) on my master's thesis. 
 
-I am primarily interested in mechanistic interpretability. In particular, my research focuses on understanding models' internal computations through analyzing weight-space and activation-space structures. 
+I am primarily interested in interpretability, AI safety, and science of deep learning. I am driven by the fundamental question: **How can we predict when an AI system is going to fail?** I hope to answer this question by **scientifically understanding how data, learning dynamics, and representation geometry shape model behavior and generalization**. 
 
-I have also been working on knowledge distillation and model arithmetic with Prof. [David Alvarez-Melis](https://dmelis.github.io) in the [ML Foundations](https://mlfoundations.org) group, and on AI safety and interpretability in the [AI4LIFE](https://github.com/AI4LIFE-GROUP) group with Prof. [Hima Lakkaraju](https://himalakkaraju.github.io). Previously, I completed my Bachelor's degree in Politics and Data Science at the [London School of Economics](https://www.lse.ac.uk). 
+I have also worked on knowledge distillation and model arithmetic with Prof. [David Alvarez-Melis](https://dmelis.github.io) in the [ML Foundations](https://mlfoundations.org) group, and AI safety and interpretability in the [AI4LIFE](https://github.com/AI4LIFE-GROUP) group with Prof. [Hima Lakkaraju](https://himalakkaraju.github.io). Previously, I completed my Bachelor's degree in Politics and Data Science at the [London School of Economics](https://www.lse.ac.uk). 
 
 I am always happy to discuss research ideas! Please feel free to reach out to me at terryzhou [at] fas [dot] harvard [dot] edu. 
